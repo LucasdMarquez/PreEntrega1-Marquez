@@ -1,23 +1,23 @@
 [
 	{
-		"name": "Car",
+		"name": "Zapatos",
 		"id": "1",
 		"category": "zapatos",
-		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
-		"img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cars_movie%27s_car.jpg"
+		"detail": "Diseñadas a mediados de los 80 por Peter C. Moore para celebrar al gran ídolo deportivo americano de la época (y de las décadas siguientes), se siguen reeditando en 2017.",
+		"img": "https://media.revistagq.com/photos/644918781c98f4b147442f10/1:1/w_1600,c_limit/GettyImages-1364945916.jpg"
 	},
 	{
-		"name": "teletubbie",
+		"name": "Nike Air Max DN - Hombre",
 		"id": 2,
 		"category": "zapatillas",
-		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
-		"img": "https://people.com/thmb/Bo8MTMyoT2JvQNg8fULYjTBEpow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(511x0:513x2)/lala-1024-589f1474607b4defb07769b3da4bbbb5.jpg"
+		"detail": "ZAPATILLAS NIKE AIR MAX DN De Moda Para HOMBRE Código: DV3337-003",
+		"img": "https://essential.vtexassets.com/arquivos/ids/1510611-800-auto?v=638568973561000000&width=800&height=auto&aspect=true"
 	},
 	{
-		"name": "milk",
+		"name": "Jordan Air 1 - Mujer",
 		"id": 3,
 		"category": "zapatillas",
-		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
-		"img": "https://img.freepik.com/free-vector/isolated-milk-box-cartoon-style_1308-117384.jpg?w=360"
+		"detail": "La clave está en la energía. Igual que el original que se lanzó en 1985, el AJ1 Low ofrece un look clásico impecable que se ve familiar, pero siempre viene renovado. Con sutiles tonos tierra, estos Jordan mantendrán sin duda tus altas vibraciones.",
+		"img": "https://essential.vtexassets.com/arquivos/ids/1471828-800-auto?v=638525148556000000&width=800&height=auto&aspect=true"
 	}
 ]
